@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-  <path d="M14.5 17.5l-9-2.5 2.5-9 9 2.5-2.5 9z"/>
-  <path d="M10 11l2 0.5-0.5 2-2-0.5z"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path fill="currentColor" fill-rule="evenodd" 
+    d="M 6.45 2 L 22 6.16 L 17.55 22 L 2 17.84 Z 
+       M 10.75 9.7 L 14.25 10.65 L 13.25 14.3 L 9.75 13.35 Z" />
 </svg>
